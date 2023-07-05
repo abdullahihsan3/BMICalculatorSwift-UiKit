@@ -2,7 +2,7 @@
 
 #  BMI Calculator
 
-##Goal
+## Goal Of The Project
 
 The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. I compared objects created from classes with instances of structs.
 
